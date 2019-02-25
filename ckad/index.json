@@ -32,7 +32,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
