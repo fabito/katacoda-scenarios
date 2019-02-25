@@ -7,7 +7,7 @@ Before we begin lets create some aliases:
 
 `alias krm='k delete '`{{execute}}
 
-`alias kd='k decribe '`{{execute}}
+`alias kd='k describe '`{{execute}}
 
 `alias ka='k apply -f '`{{execute}}
 
