@@ -6,6 +6,7 @@
   "details": {
     "steps": [{
       "title": "Question 1",
+      "code": "foreground.sh",
       "text": "step1.md"
     },{
       "title": "Question 2",
@@ -29,10 +30,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-terminal",
-    "uimessage1": ""
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "kubernetes"
   }
 }
