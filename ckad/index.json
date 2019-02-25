@@ -23,14 +23,14 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "https://matthewpalmer.net/kubernetes-app-developer/articles/ckad-practice-exam.html"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "kubernetes"
