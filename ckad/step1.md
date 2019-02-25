@@ -1,5 +1,3 @@
-# Question 1
-
 Create a namespace called `ggckad-s0` in your cluster.
 
 Run the following pods in this namespace:

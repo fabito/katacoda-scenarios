@@ -1,5 +1,3 @@
-# Question 4
-
 All operations in this question should be performed in the `ggckad-s4` namespace. 
 
 This question will require you to create a pod that runs the image `kubegoldenguide/question-thirteen`. This image is in the main Docker repository at hub.docker.com. 
