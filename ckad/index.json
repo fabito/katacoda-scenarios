@@ -5,8 +5,10 @@
   "time": "30 minutes",
   "details": {
     "steps": [{
+      "title": "Creating aliases",
+      "text": "step0.md"
+    },{
       "title": "Question 1",
-      "code": "foreground.sh",
       "text": "step1.md"
     },{
       "title": "Question 2",
