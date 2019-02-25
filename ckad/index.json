@@ -29,7 +29,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "uimessage1": ""
   },
   "backend": {
